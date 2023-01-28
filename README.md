@@ -39,10 +39,7 @@ print("number of words ={}".format(num_word)
 
 ```
 ### OUTPUT:
-![output](/word%20count%20(2).png)
-
-
-
+![output](/Screenshot%202023-01-28%20134616.png)
 
 ## RESULT:
 Thus the program is written to find the word count from a text.
